@@ -1,0 +1,5 @@
+console.log("Addition of Two random dice number is: ");
+let randomDiceNum1 = Math.floor((Math.random() * 10));
+let randomDiceNum2 = Math.floor((Math.random() * 10));
+let addition = randomDiceNum1 + randomDiceNum2;
+console.log(addition);
